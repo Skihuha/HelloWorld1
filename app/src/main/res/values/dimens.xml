@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <resources>
+        <dimen name="widget_margin">8dp</dimen>
+    </resource>
+    <resources>
+        <dimen name="layout_margin">10dp</dimen>
+    </resource>
+
+</resources>

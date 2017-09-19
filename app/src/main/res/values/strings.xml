@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activitysignup">activitysignup</string>
+    <string name="title_activity_activityhome">activityhome</string>
+    <string name="title_activity_firstname">firstname</string>
+    <string name="title_activity_lastname">lastname</string>
+    <string name="title_activity_textEmailAddress">textEmailAddress</string>
+    <string name="title_activity_phone">phone</string>
+    <string name="title_activity_password">password</string>
+    <string name="title_activity_activitylogin1">activitylogin1</string>
+
+
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    android:padding="@dimen/widget_margin"
+    android:orientation="vertical"
+    android:paddingRight="10dp"
+    android:paddingleft="10dp"
+    xmlns:android="http://schemas.android.com/apk.
+
+    <android.support.design.widget.TextInputEditText
+        android:id="@+id/firstname"
+        android:layout_width="@dimen/layout_margin"
+        android:layout_height="wrap_content"
+        android:hint="@string/title_activity_firstname"
+        />
+    <android.support.design.widget.TextInputEditText
+        android:id="@+id/Lastname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/title_activity_lastname"
+        />
+    <android.support.design.widget.TextInputEditText
+        android:id="@+id/nameemail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/title_activity_textEmailAddress"
+        android:inputType="textEmailAddress"
+        />
+    <android.support.design.widget.TextInputEditText
+        android:id="@+id/namephone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/title_activity_phone"
+        android:inputType="phone"
+
+        />
+    <android.support.design.widget.TextInputEditText
+        android:id="@+id/namepassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/title_activity_password"
+        android:inputType="textPassword"
+        />
+    <button
+        android:id="@+id/namebutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="submit"
+        />
+    Button Btnsignup= Button:
+
+</LinearLayout>
+
+    <?xml version="1.0" encoding="utf-8"?>
+
+
+
